@@ -1,10 +1,25 @@
-# Getting Started with Create React App
+## Airbnb Home Page Clone using React.js and Material UI (미완성)
+
+React와 Material UI를 이용한 Airbnb Home Page Clone 입니다.
+
+![Alt text](/src/images/airbnb_img1.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 적용된 기술
 
-In the project directory, you can run:
+- React Context API
+- Material UI
+- React Router
+- React Date Picker
+
+## How to Run
+
+1. Terminal을 열고 npm install 명령으로 dependency를 설치해줍니다. (사전에 node.js가 설치되어 있어야 한다.)
+
+2. Local에서 실행하기 위해 Terminal에 npm start를 입력합니다.
+
+---
 
 ### `npm start`
 
