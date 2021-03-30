@@ -1,0 +1,45 @@
+.banner {
+  background: url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F34%2F2018%2F12%2F18%2Fbachelorette-party-airbnb-venues-vail-colorado-02-1218.jpg&q=85");
+  height: 42vh;
+  position: relative;
+  object-fit: contain;
+  background-size: cover;
+  background-position: center center;
+}
+
+.banner__info {
+  background-color: black;
+  color: white;
+  padding: 25vh 50px 46px 50px;
+  width: 350px;
+}
+
+.banner__searchButton {
+  background-color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  color: #ff7799 !important;
+}
+
+.banner__search {
+  display: flex;
+  flex-direction: column;
+}
+
+.banner__info > button {
+  background-color: #ff7799;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+  transition: ease 0.3s all;
+}
+
+.banner__info > h5 {
+  margin-top: 10px;
+}
+
+.banner__info > button:hover {
+  background-color: white;
+  color: #ff7799;
+}
