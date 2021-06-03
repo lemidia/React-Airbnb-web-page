@@ -1,6 +1,6 @@
-## Airbnb Home Page Clone using React.js and Material UI (미완성)
+## Airbnb Home Page using React.js and Material UI (미완성)
 
-React와 Material UI를 이용한 Airbnb Home Page Clone 입니다.
+React.js와 Material UI를 이용한 Airbnb Single Page 입니다.
 
 ![Alt text](/src/images/airbnb_img1.png)
 
